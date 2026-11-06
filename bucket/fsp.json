@@ -1,12 +1,12 @@
 {
-  "version": "0.25.0",
+  "version": "0.26.0",
   "description": "File-tree routing for Flutter: the fsp code generator",
   "homepage": "https://github.com/fespalier/fespalier",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/fespalier/fespalier/releases/download/v0.25.0/fsp-x86_64-pc-windows-msvc.zip",
-      "hash": "60429a9499ba0df256988615a2af7e3fa2304a3f16397c9345c8b1296a3cdba3"
+      "url": "https://github.com/fespalier/fespalier/releases/download/v0.26.0/fsp-x86_64-pc-windows-msvc.zip",
+      "hash": "127b270695ce4b91f1dd6aa74d4f0924d727bad36c068bd2d368df38805a202f"
     }
   },
   "bin": "fsp.exe",
